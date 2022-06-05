@@ -1,0 +1,8 @@
+---
+'':
+  - type: A
+    value: your-server-ipv4-address
+
+www:
+  - type: A
+    value: your-server-ipv4-address
